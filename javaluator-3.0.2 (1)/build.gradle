@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('javaluator-3.0.2 (1).jar'))
