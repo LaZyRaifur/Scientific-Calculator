@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_setting">Setting</string>
+    <string name="no_text"> </string>
+    <string name="rcl">RCL</string>
+    <string name="sto">STO</string>
+    <string name="m_minus">M-</string>
+    <string name="shift">SHIFT</string>
+    <string name="rad">RAD</string>
+    <string name="abs">ABS</string>
+    <string name="mr">MR</string>
+    <string name="ms">MS</string>
+    <string name="m_plus">M+</string>
+    <string name="inverse_sin">sin1</string>
+    <string name="inverse_cos">cos1</string>
+    <string name="inverse_tan">tan1</string>
+    <string name="expo">ex</string>
+    <string name="ten_power">10x</string>
+    <string name="rnd">rend</string>
+    <string name="sin_sign">sin</string>
+    <string name="cos_sign">cos</string>
+    <string name="tan_sign">tan</string>
+    <string name="natural_log">ln</string>
+    <string name="log">log</string>
+    <string name="cube_root">3?</string>
+    <string name="cube">x3</string>
+    <string name="one_over_x">1/x</string>
+    <string name="x_power_y">Yx</string>
+    <string name="square_root">√</string>
+    <string name="x_square">x^2</string>
+    <string name="percent">%</string>
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="single_delete">del</string>
+    <string name="clear">AC</string>
+    <string name="factorial">n!</string>
+    <string name="combination">c(n,r)</string>
+    <string name="permutation">p(n,r)</string>
+    <string name="rate">Rate</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+    <string name="pi">ii</string>
+    <string name="e">e</string>
+    <string name="comma">,</string>
+    <string name="addition">+</string>
+    <string name="subtract">-</string>
+    <string name="dot">.</string>
+    <string name="exp">exp</string>
+    <string name="ans">Ans</string>
+    <string name="equal">=</string>
+    <string name="x_value">x</string>
+    <string name="plus_minus">+/-</string>
+    <string name="plot">plot</string>
+    <string name="asterisk">*</string>
+
+
+
+
+
+
+</resources>
